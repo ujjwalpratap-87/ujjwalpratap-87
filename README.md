@@ -1,6 +1,6 @@
 # Hi, I'm Ujjwal Pratap Singh 👋
 
-### Computer Science Student | Data Analytics | Software Engineering | AI/ML
+### Computer Science Student | Python • Java • SQL | AI/ML & Web DevelopmentL
 
 I'm a pre-final year Computer Science student at **GLA University** with a strong foundation in **Python, SQL, Java, Data Analysis, and Machine Learning**.
 
